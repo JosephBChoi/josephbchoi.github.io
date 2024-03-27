@@ -1,11 +1,11 @@
+{
   "basics": {
     "name": "Joseph B Choi",
     "label": "Ph. D. candidate",
     "image": "",
     "email": "joseph.boogun.choi@gmail.com",
-    "url": "https://josephbchoi.github.io" ,
+    "url": "https://josephbchoi.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time"
-    ]
   },
   "work": [
     {
@@ -43,8 +43,8 @@
       "url": "https://example.com",
       "startDate": "2023-05-01",
       "endDate": "current",
-      "summary": "place holder", 
-			"highlights": ["Relativity"]
+      "summary": "place holder",
+      "highlights": ["Relativity"]
     },
     {
       "organization": "United Stated Army",
@@ -52,8 +52,8 @@
       "url": "https://example.com",
       "startDate": "2016-03-14",
       "endDate": "2024-03-14",
-      "summary": "place holder", 
-			"highlights": ["Relativity"]
+      "summary": "place holder",
+      "highlights": ["Relativity"]
     }
   ],
   "education": [
@@ -74,7 +74,7 @@
       "studyType": "PhD",
       "startDate": "2019-08-01",
       "endDate": "2021-05-31"
-		},
+    },
     {
       "institution": "University of Iowa",
       "location": "Iowa City, IA",
@@ -83,7 +83,7 @@
       "studyType": "BS",
       "startDate": "2015-01-15",
       "endDate": "2017-05-31"
-		},
+    },
     {
       "institution": "University of Iowa",
       "location": "Iowa City, IA",
@@ -92,6 +92,7 @@
       "studyType": "BS",
       "startDate": "2015-01-15",
       "endDate": "2017-05-31"
+    }
   ],
   "awards": [
     {
@@ -101,23 +102,23 @@
       "url": "https://datascience.virginia.edu/news/doctoral-student-receives-best-poster-award-microstructural-design-shocked-materials",
       "summary": "place holder"
     },
-		{
-			"title": "ISE Best Grad - 2020 College of Engineering Research Open House",
-			"date" : "2020-03-01", 
-			"awarder" : "School of Engineering, University of Iowa", 
-			"url" : "www.google.com", 
-			"summary" : "place holder"
-		}, 
-		{
-			"title": "Army Achievement Medal for QLLEX-E 19 mission", 
-			"date" : "2019-03-01", 
-			"awarder" : "U.S. Army"
-		},
-		{
-			"title": "RS", 
-			"date" : "2024-03-27", 
-			"awarder" : "place holder"
-		}
+    {
+      "title": "ISE Best Grad - 2020 College of Engineering Research Open House",
+      "date": "2020-03-01",
+      "awarder": "School of Engineering, University of Iowa",
+      "url": "www.google.com",
+      "summary": "place holder"
+    },
+    {
+      "title": "Army Achievement Medal for QLLEX-E 19 mission",
+      "date": "2019-03-01",
+      "awarder": "U.S. Army"
+    },
+    {
+      "title": "RS",
+      "date": "2024-03-27",
+      "awarder": "place holder"
+    }
   ],
   "certificates": [
     {
@@ -149,56 +150,56 @@
       "releaseDate": "2023/05",
       "url": "https://asmedigitalcollection.asme.org/computingengineering/article/23/6/060808/1163269/Challenges-and-Opportunities-for-Machine-Learning",
       "summary": "place holder"
-    }, 
-		{
-			"name" : "A Physics-aware deep learning model for energy localization in multiscale shock-to-detonation simulations of heterogeneous energetic materials", 
-			"publisher" : "Propellants, Explosives, Pyrotechnics", 
-			"releaseDate": "2023/03",
-			"url" : "https://onlinelibrary.wiley.com/doi/full/10.1002/prep.202200268", 
-			"summary" : "place holder"
-		},
-		{
-			"name" : "A Novel AI-assisted framework for microstructure design of shock materials", 
-			"publisher" : "Bulletin of the American Physical Society", 
-			"releaseDate": "2022/07",
-			"url" : "https://meetings.aps.org/Meeting/SHOCK22/Session/U03.4", 
-			"summary" : "place holder"
-		},
-		{
-			"name" : "Establishing the structure-property-performance linkage of pressed energetic materials using physics-aware recurrent convolutional neural networks (PARC)", 
-			"publisher" : "Bulletin of the American Physical Society", 
-			"releaseDate": "2022/07",
-			"url" : "https://ui.adsabs.harvard.edu/abs/2022APS..SHKP03002N/abstract", 
-			"summary" : "place holder"
-		},
-		{
-			"name" : "Federated learning enables big data for rare cancer boundary detection", 
-			"publisher" : "Nature Communications", 
-			"releaseDate": "2022/12",
-			"url" : "https://www.nature.com/articles/s41467-022-33407-5", 
-			"summary" : "place holder"
-		},
-		{
-			"name" : "Deep Learning for synthetic microstructure generation in a materials by design framework for heterogeneous energetic materials", 
-			"publisher" : "Scientific Reports", 
-			"releaseDate": "2020/08",
-			"url" : "https://www.nature.com/articles/s41598-020-70149-0", 
-			"summary" : "place holder"
-		},
-		{
-			"name" : "NADS-Net: A nimble architecture for driver and seat belt detection via convolutional neural networks", 
-			"publisher" : "International Conference on Compuber Vision (ICCV) - Autonomous Driving Workshop", 
-			"releaseDate": "2019/10",
-			"url" : "https://arxiv.org/abs/1910.03695", 
-			"summary" : "place holder"
-		},
-		{
-			"name" : "Asphalt pavement crack detection based on deep learning", 
-			"publisher" : "International Conference on Smart Cities", 
-			"releaseDate": "2019/05",
-			"url" : "www.google.com", 
-			"summary" : "place holder"
-		}
+    },
+    {
+      "name": "A Physics-aware deep learning model for energy localization in multiscale shock-to-detonation simulations of heterogeneous energetic materials",
+      "publisher": "Propellants, Explosives, Pyrotechnics",
+      "releaseDate": "2023/03",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/prep.202200268",
+      "summary": "place holder"
+    },
+    {
+      "name": "A Novel AI-assisted framework for microstructure design of shock materials",
+      "publisher": "Bulletin of the American Physical Society",
+      "releaseDate": "2022/07",
+      "url": "https://meetings.aps.org/Meeting/SHOCK22/Session/U03.4",
+      "summary": "place holder"
+    },
+    {
+      "name": "Establishing the structure-property-performance linkage of pressed energetic materials using physics-aware recurrent convolutional neural networks (PARC)",
+      "publisher": "Bulletin of the American Physical Society",
+      "releaseDate": "2022/07",
+      "url": "https://ui.adsabs.harvard.edu/abs/2022APS..SHKP03002N/abstract",
+      "summary": "place holder"
+    },
+    {
+      "name": "Federated learning enables big data for rare cancer boundary detection",
+      "publisher": "Nature Communications",
+      "releaseDate": "2022/12",
+      "url": "https://www.nature.com/articles/s41467-022-33407-5",
+      "summary": "place holder"
+    },
+    {
+      "name": "Deep Learning for synthetic microstructure generation in a materials by design framework for heterogeneous energetic materials",
+      "publisher": "Scientific Reports",
+      "releaseDate": "2020/08",
+      "url": "https://www.nature.com/articles/s41598-020-70149-0",
+      "summary": "place holder"
+    },
+    {
+      "name": "NADS-Net: A nimble architecture for driver and seat belt detection via convolutional neural networks",
+      "publisher": "International Conference on Compuber Vision (ICCV) - Autonomous Driving Workshop",
+      "releaseDate": "2019/10",
+      "url": "https://arxiv.org/abs/1910.03695",
+      "summary": "place holder"
+    },
+    {
+      "name": "Asphalt pavement crack detection based on deep learning",
+      "publisher": "International Conference on Smart Cities",
+      "releaseDate": "2019/05",
+      "url": "www.google.com",
+      "summary": "place holder"
+    }
   ],
   "skills": [
     {
