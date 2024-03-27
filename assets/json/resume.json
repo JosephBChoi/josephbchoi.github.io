@@ -11,8 +11,8 @@
       "name": "Mantis Grading",
       "position": "Computer Vision/Deep Learning Engineer",
       "url": "https://example.com",
-      "startDate": "2021/09",
-      "endDate": "2023/11",
+      "startDate": "21.09",
+      "endDate": "23.11",
       "summary": "Lead engineer to develop computer vision algorithms and utilize state-of-the-art artificial intelligence methods to quantitatively evaluate card collections",
       "highlights": ["place holder"]
     },
@@ -20,8 +20,8 @@
       "name": "Visual Intelligence Laboratory",
       "position": "Research Scientist",
       "url": "www.google.com",
-      "startDate": "2018/12",
-      "endDate": "2019/05",
+      "startDate": "18.12",
+      "endDate": "19.05",
       "summary": "place holderng",
       "highlights": ["place holder"]
     },
@@ -29,8 +29,8 @@
       "name": "University of Iowa",
       "position": "Web Master",
       "url": "www.google.com",
-      "startDate": "2017/08",
-      "endDate": "2018/12",
+      "startDate": "17.08",
+      "endDate": "18.12",
       "summary": "place holderng",
       "highlights": ["place holder"]
     }
@@ -40,7 +40,7 @@
       "organization": "Crozet Volunteer Fire Department",
       "position": "Red Helmet Fire Fighter",
       "url": "https://example.com",
-      "startDate": "2023/05",
+      "startDate": "23.05",
       "endDate": "current",
       "summary": "place holder",
       "highlights": ["place holder"]
@@ -49,8 +49,8 @@
       "organization": "United Stated Army",
       "position": "Specialist",
       "url": "https://example.com",
-      "startDate": "2016/03",
-      "endDate": "2024/03",
+      "startDate": "16.03",
+      "endDate": "24.03",
       "summary": "place holder",
       "highlights": ["place holder"]
     }
@@ -62,8 +62,8 @@
       "url": "https://datascience.virginia.edu",
       "area": "Data Science",
       "studyType": "PhD",
-      "startDate": "2021/08",
-      "endDate": "2024/12"
+      "startDate": "21.08",
+      "endDate": "24.12"
     },
     {
       "institution": "University of Iowa",
@@ -71,8 +71,8 @@
       "url": "https://engineering.uiowa.edu/ise",
       "area": "Industrial and Systems Engineering",
       "studyType": "PhD",
-      "startDate": "2019/08",
-      "endDate": "2021/05"
+      "startDate": "19.08",
+      "endDate": "21.05"
     },
     {
       "institution": "University of Iowa",
@@ -80,8 +80,8 @@
       "url": "https://cs.uiowa.edu",
       "area": "Computer Science",
       "studyType": "BS",
-      "startDate": "2015/01",
-      "endDate": "2017/05"
+      "startDate": "15.01",
+      "endDate": "17.05"
     },
     {
       "institution": "University of Iowa",
@@ -89,33 +89,33 @@
       "url": "https://math.uiowa.edu",
       "area": "Mathematics",
       "studyType": "BS",
-      "startDate": "2015/01",
-      "endDate": "2017/05"
+      "startDate": "15.01",
+      "endDate": "17.05"
     }
   ],
   "awards": [
     {
       "title": "Best Poster Award",
-      "date": "2022/09",
+      "date": "22.09",
       "awarder": "U. S. Association for Computational Mechanics",
       "url": "https://datascience.virginia.edu/news/doctoral-student-receives-best-poster-award-microstructural-design-shocked-materials",
       "summary": "place holder"
     },
     {
       "title": "ISE Best Grad - 2020 College of Engineering Research Open House",
-      "date": "2020/03",
+      "date": "20.03",
       "awarder": "School of Engineering, University of Iowa",
       "url": "www.google.com",
       "summary": "place holder"
     },
     {
       "title": "Army Achievement Medal for QLLEX-E 19 mission",
-      "date": "2019/03",
+      "date": "19.03",
       "awarder": "U.S. Army"
     },
     {
       "title": "RS",
-      "date": "2024/03",
+      "date": "24.03",
       "awarder": "place holder"
     }
   ],
