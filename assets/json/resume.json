@@ -4,56 +4,55 @@
     "label": "Ph. D. candidate",
     "image": "",
     "email": "joseph.boogun.choi@gmail.com",
-    "url": "https://josephbchoi.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time"
+    "summary": "place holder"
   },
   "work": [
     {
       "name": "Mantis Grading",
       "position": "Computer Vision/Deep Learning Engineer",
       "url": "https://example.com",
-      "startDate": "2021-09-01",
-      "endDate": "2023-11-01",
-      "summary": "place holderng",
-      "highlights": ["Relativity"]
+      "startDate": "2021/09",
+      "endDate": "2023/11",
+      "summary": "Lead engineer to develop computer vision algorithms and utilize state-of-the-art artificial intelligence methods to quantitatively evaluate card collections",
+      "highlights": ["place holder"]
     },
     {
       "name": "Visual Intelligence Laboratory",
       "position": "Research Scientist",
       "url": "www.google.com",
-      "startDate": "2018-12-15",
-      "endDate": "2019-05-05",
+      "startDate": "2018/12",
+      "endDate": "2019/05",
       "summary": "place holderng",
-      "highlights": ["Relativity"]
+      "highlights": ["place holder"]
     },
     {
       "name": "University of Iowa",
       "position": "Web Master",
       "url": "www.google.com",
-      "startDate": "2017-08-01",
-      "endDate": "2018-12-15",
+      "startDate": "2017/08",
+      "endDate": "2018/12",
       "summary": "place holderng",
-      "highlights": ["Relativity"]
+      "highlights": ["place holder"]
     }
   ],
-  "volunteer/leadership": [
+  "service/leadership": [
     {
       "organization": "Crozet Volunteer Fire Department",
       "position": "Red Helmet Fire Fighter",
       "url": "https://example.com",
-      "startDate": "2023-05-01",
+      "startDate": "2023/05",
       "endDate": "current",
       "summary": "place holder",
-      "highlights": ["Relativity"]
+      "highlights": ["place holder"]
     },
     {
       "organization": "United Stated Army",
       "position": "Specialist",
       "url": "https://example.com",
-      "startDate": "2016-03-14",
-      "endDate": "2024-03-14",
+      "startDate": "2016/03",
+      "endDate": "2024/03",
       "summary": "place holder",
-      "highlights": ["Relativity"]
+      "highlights": ["place holder"]
     }
   ],
   "education": [
@@ -63,8 +62,8 @@
       "url": "https://datascience.virginia.edu",
       "area": "Data Science",
       "studyType": "PhD",
-      "startDate": "2021-08-01",
-      "endDate": "2024-12-31"
+      "startDate": "2021/08",
+      "endDate": "2024/12"
     },
     {
       "institution": "University of Iowa",
@@ -72,8 +71,8 @@
       "url": "https://engineering.uiowa.edu/ise",
       "area": "Industrial and Systems Engineering",
       "studyType": "PhD",
-      "startDate": "2019-08-01",
-      "endDate": "2021-05-31"
+      "startDate": "2019/08",
+      "endDate": "2021/05"
     },
     {
       "institution": "University of Iowa",
@@ -81,8 +80,8 @@
       "url": "https://cs.uiowa.edu",
       "area": "Computer Science",
       "studyType": "BS",
-      "startDate": "2015-01-15",
-      "endDate": "2017-05-31"
+      "startDate": "2015/01",
+      "endDate": "2017/05"
     },
     {
       "institution": "University of Iowa",
@@ -90,40 +89,40 @@
       "url": "https://math.uiowa.edu",
       "area": "Mathematics",
       "studyType": "BS",
-      "startDate": "2015-01-15",
-      "endDate": "2017-05-31"
+      "startDate": "2015/01",
+      "endDate": "2017/05"
     }
   ],
   "awards": [
     {
       "title": "Best Poster Award",
-      "date": "2022-09-14",
+      "date": "2022/09",
       "awarder": "U. S. Association for Computational Mechanics",
       "url": "https://datascience.virginia.edu/news/doctoral-student-receives-best-poster-award-microstructural-design-shocked-materials",
       "summary": "place holder"
     },
     {
       "title": "ISE Best Grad - 2020 College of Engineering Research Open House",
-      "date": "2020-03-01",
+      "date": "2020/03",
       "awarder": "School of Engineering, University of Iowa",
       "url": "www.google.com",
       "summary": "place holder"
     },
     {
       "title": "Army Achievement Medal for QLLEX-E 19 mission",
-      "date": "2019-03-01",
+      "date": "2019/03",
       "awarder": "U.S. Army"
     },
     {
       "title": "RS",
-      "date": "2024-03-27",
+      "date": "2024/03",
       "awarder": "place holder"
     }
   ],
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
+      "date": "2018/01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
