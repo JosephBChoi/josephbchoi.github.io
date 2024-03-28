@@ -95,6 +95,12 @@
   ],
   "awards": [
     {
+      "title": "Lifetime Member",
+      "date": "24.03",
+      "awarder": "UVA Raven Society",
+      "summary": "Honored for superior academic and extra-curricular achievement (1 or 2 students selected out of ~100 MS and PhD students in UVA's School of Data Science). The Raven Society is the oldest and most prestigious honorary society at UVA. Selection is highly competitive and members in clude a former CEO of Prudential Financial (#67 on Fortune 500), John Strangfeld."
+    },
+    {
       "title": "Best Poster Award",
       "date": "22.09",
       "awarder": "U. S. Association for Computational Mechanics",
