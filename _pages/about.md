@@ -17,6 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 Place holder.
 
-Place holder. 
+Place holder.
 
-Place holder. 
+Place holder.
