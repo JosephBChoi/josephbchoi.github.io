@@ -206,10 +206,7 @@
       "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "place holder",
-				"place holder"
-      ]
+      "keywords": ["place holder", "place holder"]
     }
   ],
   "languages": [
@@ -228,10 +225,7 @@
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "place holder",
-				"place holder"
-      ]
+      "keywords": ["place holder", "place holder"]
     }
   ],
   "references": [
