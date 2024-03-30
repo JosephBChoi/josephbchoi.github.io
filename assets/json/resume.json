@@ -11,8 +11,8 @@
       "name": "Mantis Grading",
       "position": "Computer Vision/Deep Learning Engineer",
       "url": "https://example.com",
-      "startDate": "2021/09",
-      "endDate": "2023/11",
+      "startDate": "21.09",
+      "endDate": "23.11",
       "summary": "Lead engineer to develop computer vision algorithms and utilize state-of-the-art artificial intelligence methods to quantitatively evaluate card collections",
       "highlights": ["place holder"]
     },
@@ -20,8 +20,8 @@
       "name": "Visual Intelligence Laboratory",
       "position": "Research Scientist",
       "url": "www.google.com",
-      "startDate": "2018/12",
-      "endDate": "2019/05",
+      "startDate": "18.12",
+      "endDate": "19.05",
       "summary": "place holderng",
       "highlights": ["place holder"]
     },
@@ -29,8 +29,8 @@
       "name": "University of Iowa",
       "position": "Web Master",
       "url": "www.google.com",
-      "startDate": "2017/08",
-      "endDate": "2018/12",
+      "startDate": "17.08",
+      "endDate": "18.12",
       "summary": "place holderng",
       "highlights": ["place holder"]
     }
@@ -40,8 +40,8 @@
       "organization": "Crozet Volunteer Fire Department",
       "position": "Volunteer Fire Fighter",
       "url": "https://crozetfire.org",
-      "startDate": "2023/05",
-      "endDate": " ",
+      "startDate": "23.05",
+      "endDate": "",
       "summary": "place holder",
       "highlights": ["place holder"]
     },
@@ -49,8 +49,8 @@
       "organization": "United Stated Army",
       "position": "Specialist",
       "url": "https://example.com",
-      "startDate": "2016/03",
-      "endDate": "2024/03",
+      "startDate": "16.03",
+      "endDate": "24.03",
       "summary": "place holder",
       "highlights": ["place holder"]
     }
@@ -207,12 +207,8 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "place holder",
+				"place holder"
       ]
     }
   ],
@@ -233,12 +229,8 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "place holder",
+				"place holder"
       ]
     }
   ],
