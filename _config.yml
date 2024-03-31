@@ -8,7 +8,7 @@ middle_name: B.
 last_name: Choi
 email: joseph.boogun.choi@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  share my learning about Artificial Intelligence
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Materials-by-Design, physics informed neural network, PINN, generative artificial intelligence, generative AI, uncertainty quantification, material design
@@ -244,7 +244,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
+display_tags: ["physics-informed", "Generative AI", "attention", "visualization"] # these tags will be displayed on the front page of your blog
 display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
