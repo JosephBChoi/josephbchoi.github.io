@@ -10,7 +10,6 @@ categories: sample-posts
 List of the topics to blog about
 
 #### ML
-
 - MLOps
 - SVM
 - dimension reduction (PAC, t-sne, etc.)
@@ -26,6 +25,9 @@ List of the topics to blog about
 - generative AI (autoencoder, vae, gan, diffusion, score models)
 - NLP (basics, landmark papers, etc.)
 - scalable AI
+- zero-shot, few-shot, online learning
+- student-teacher networks
+- reinforcement learning
 
 #### Optimization
 
